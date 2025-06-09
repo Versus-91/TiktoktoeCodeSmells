@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TicTacToe
 {
-    internal class BoardValidator
+    internal class BoardMoveValidator
     {
         public void ValidateMove(char symbol, char lastSymbol, int x, int y,char symbolAtTile)
         {

@@ -8,7 +8,7 @@ namespace TicTacToe
     {
         private char _lastSymbol = PlayerSymbols.Empty;
         private Board _board = new Board();
-        private BoardValidator _boardValidator = new BoardValidator();
+        private BoardMoveValidator _boardValidator = new BoardMoveValidator();
 
 
         public void Play(char symbol, int x, int y)
