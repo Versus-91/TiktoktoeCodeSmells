@@ -29,30 +29,6 @@ namespace TicTacToe
         {
             _plays.Single(tile => tile.X == x && tile.Y == y).Symbol = symbol;
         }
-        public void ValidateMove(char symbol,char lastSymbol,int x, int y)
-        {
-            //if first move
-            if (IsFirstMove(lastSymbol,symbol))
-            {
-               throw new Exception("Invalid first player");
-            }
-            //if not first move but player repeated
-            else
-            {
-                if (symbol == lastSymbol)
-                {
-                    throw new Exception("Invalid next player");
-                }
-                //if not first move but play on an already played tile
-                else if (TileAt(x, y).Symbol != ' ')
-                {
-                    throw new Exception("Invalid position");
-                }
-            }
-        }
-        public bool IsFirstMove(char lastSymbol,char symbol)
-        {
-            return lastSymbol == ' ' && symbol == 'O';
-        }
+
     }
 }
