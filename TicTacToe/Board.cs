@@ -9,12 +9,12 @@ namespace TicTacToe
     public class Board
     {
         private List<Tile> _plays = new List<Tile>();
-
+        public const int rowSize = 3;
         public Board()
         {
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < rowSize; i++)
             {
-                for (int j = 0; j < 3; j++)
+                for (int j = 0; j < rowSize; j++)
                 {
                     _plays.Add(new Tile { X = i, Y = j});
                 }
