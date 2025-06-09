@@ -9,3 +9,4 @@ E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net
 E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
 E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
 E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.sourcelink.json

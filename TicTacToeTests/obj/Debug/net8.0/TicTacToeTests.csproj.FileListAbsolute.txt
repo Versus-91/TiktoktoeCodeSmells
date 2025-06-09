@@ -98,3 +98,4 @@ E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToeTests\obj\Debu
 E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToeTests\obj\Debug\net8.0\TicTacToeTests.pdb
 E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToeTests\obj\Debug\net8.0\TicTacToeTests.genruntimeconfig.cache
 E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToeTests\obj\Debug\net8.0\ref\TicTacToeTests.dll
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToeTests\obj\Debug\net8.0\TicTacToeTests.sourcelink.json
