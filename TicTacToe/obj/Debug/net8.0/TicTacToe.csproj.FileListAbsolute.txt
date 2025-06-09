@@ -1,0 +1,11 @@
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+E:\downloads\CodeSmells-master\CodeSmells-master\c-sharp\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
